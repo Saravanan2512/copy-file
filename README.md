@@ -39,10 +39,10 @@ newfile=input("Enter a name for new file:")
 copy(filename,newfile)
 ```
 ### OUTPUT:
-![293370697-4b52e56b-2b04-4afb-9b47-19703c2d9573](https://github.com/Saravanan2512/copy-file/assets/144979117/02465e33-fa37-4a33-bc0f-c9e1f028adc6)
 
 
 ![293370763-c11d0b1a-4f27-4db3-bc15-dea8f44588e3](https://github.com/Saravanan2512/copy-file/assets/144979117/366c526c-5d06-4c0e-88a7-87a31b1bf325)
+![293370697-4b52e56b-2b04-4afb-9b47-19703c2d9573](https://github.com/Saravanan2512/copy-file/assets/144979117/02465e33-fa37-4a33-bc0f-c9e1f028adc6)
 
 
 ## RESULT:
